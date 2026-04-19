@@ -169,4 +169,4 @@ if __name__ == "__main__":
     plot_spectrum_freq(ssb_lb, title="Test: Phổ SSB – trục tần số")
 
     # Xuất WAV
-    export_wav(ssb_lb, path="output/test_ssb_output.wav")
+    export_wav(ssb_lb, path="output/Tran_Nhat_Truong_20224182.wav")
