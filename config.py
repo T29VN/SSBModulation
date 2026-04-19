@@ -13,7 +13,7 @@ FILTER_ORDER   = 5        # bậc bộ lọc (butter(5,...))
 CUTOFF_NORM    = 3 / 96   # tần số cắt chuẩn hoá = 3 kHz / (Fs/2=96 kHz)
 
 # --- Điều chế SSB ---
-CARRIER_FREQ   = 47_000   # Hz – tần số sóng mang (47 kHz)
+CARRIER_FREQ   = 20_000   # Hz – tần số sóng mang (20 kHz)
 
 # --- Xuất file ---
 OUTPUT_WAV     = "output/Tran_Nhat_Truong_20224182.wav"
